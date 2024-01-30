@@ -5,9 +5,11 @@ body{
   
   display: flex;
   
+  
   background-color: blueviolet;
 }
 .ch{
   width: calc(100% /8);
+  aspect-ratio: 1;
   background-color: black;
 }
