@@ -11,6 +11,7 @@ body {
 .box {
   width: 390px;
   aspect-ratio: 1;
+  padding: 4px;
 
   display: flex;
 
