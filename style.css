@@ -11,7 +11,7 @@ body {
 
 .par {
   width: 100%;
-  padding: 12px;
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,5 +33,11 @@ body {
   width: calc(100% /8);
   aspect-ratio: 1;
   padding: 4px;
-  background-color: black;
+  
+}
+.x{
+  background-color: burlywood;
+}
+.y{
+  background-color: cadetblue;
 }
