@@ -32,7 +32,6 @@ body {
 .ch {
   width: calc(100% /8);
   aspect-ratio: 1;
-  padding: 4px;
   
 }
 .x{
