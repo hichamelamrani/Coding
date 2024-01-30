@@ -51,3 +51,7 @@ body {
 .y{
   background-color: cadetblue;
 }
+
+.icon{
+  width: 10px;
+}
