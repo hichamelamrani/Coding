@@ -31,6 +31,9 @@ body {
 .ch {
   width: calc(100% /8);
   aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   
 }
 .x{
