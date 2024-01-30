@@ -1,16 +1,24 @@
-body{
+body {
   background-color: beige;
 }
-.box{
-  width: auto;
-  aspect-ratio: 1;
-  
+
+.par {
   display: flex;
-  
-  
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  width: 390px;
+  aspect-ratio: 1;
+
+  display: flex;
+
+
   background-color: blueviolet;
 }
-.ch{
+
+.ch {
   width: calc(100% /8);
   aspect-ratio: 1;
   background-color: black;
