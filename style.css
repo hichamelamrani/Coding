@@ -5,6 +5,9 @@
 }
 
 body {
+
+  height: 100vw;
+
   padding: 12px;
   background-color: beige;
 
