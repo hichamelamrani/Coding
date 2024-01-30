@@ -20,7 +20,6 @@ body {
 .box {
   width: 100%;
   aspect-ratio: 1;
-  padding: 4px;
 
   display: flex;
   flex-wrap: wrap;
