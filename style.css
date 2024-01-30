@@ -8,5 +8,6 @@ body{
   background-color: blueviolet;
 }
 .ch{
+  width: calc(100% /8);
   background-color: black;
 }
